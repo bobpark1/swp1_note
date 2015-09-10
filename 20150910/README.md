@@ -1,4 +1,4 @@
-"""
+<text>
 rel="stylesheet" CSS 파일을 불러올 때 추가하는 속성
 media="all" 모든 디바이스에서 불러올 때 추가하는 속성
 href="css/style.css" 불러올 파일(css 폴더 속의 style.css)의 경로
@@ -123,4 +123,4 @@ md의 특징
 
 [토이코드](http://toycode.net)
 
-"""
+</text>
