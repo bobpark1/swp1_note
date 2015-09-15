@@ -91,7 +91,7 @@ We recommend every repository include a README, LICENSE, and .gitignore.
 echo # swp1_note >> README.md
 git init
 git add README.md
-git commit -m "first commit"
+git commit -m "first commit"  --> 두개 같이 하려면 git commit -am "message"
 git remote add origin https://github.com/bobpark1/swp1_note.git
 git push -u origin master
 
